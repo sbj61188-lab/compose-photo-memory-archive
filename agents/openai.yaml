@@ -1,0 +1,9 @@
+display_name: Compose Photo Memory Archive
+
+short_description: Transform photographs into editorial memory archive artworks.
+
+default_prompt: |
+  Transform the provided photograph into an editorial photo memory archive artwork.
+  Preserve the original photograph as the factual anchor.
+  Create a companion abstract memory field derived from the image.
+  Maintain composition, tone, color relationships, and archival visual language.
