@@ -6,9 +6,6 @@ description: >
   abstract memory field derived from the source image. Use for photo memory
   archive, abstract photo poster, archival stamp artwork, photo diptych,
   and related visual-memory compositions.
-version: 1.0.0
-author: sbj
-license: MIT
 ---
 
 # Compose Photo Memory Archive
