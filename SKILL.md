@@ -51,6 +51,17 @@ scaling and a restrained crop that does not damage the subject.
 10. Review the finished raster at full size and as a thumbnail.
 11. Regenerate only when a defect materially affects source fidelity, layout,
     balance, typography, or invented content.
+    
+## Output requirements
+
+After the image generation step succeeds:
+
+1. Return the actual generated image as the final user-visible image artifact.
+2. Do not only describe the generated image in text.
+3. Do not claim that the image is displayed unless the image artifact is actually attached or rendered in the final response.
+4. If the image-generation tool returns a file or artifact path, preserve and return that artifact rather than discarding it.
+5. If generation succeeds but the image artifact cannot be surfaced to the user, report the failure explicitly instead of pretending the image was displayed.
+6. The final response should contain the generated image first, followed by a brief description only if useful.
 
 ## Integration rules
 
