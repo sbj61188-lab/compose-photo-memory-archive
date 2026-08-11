@@ -20,6 +20,8 @@ Verify:
 - visual center and negative space feel balanced;
 - the combined internal visual load feels about 60–68%, leaving real breathing
   room rather than occupying the whole panel;
+- title, journaling cue, and swatches may have distinct functional positions,
+  but they do not read as isolated layout blocks;
 - source-memory anchors remain perceptible through rhythm, color, weight,
   direction, atmosphere, or material feeling;
 - the motif reflects the current image's source hierarchy rather than a
@@ -45,6 +47,8 @@ Verify:
   field that harmonizes with the original photo when both panels are viewed
   together;
 - the companion ground shares the original photo's overall color temperature;
+- large quiet areas feel intentionally alive through subtle paper texture,
+  diluted wash residue, tonal drift, or sparse echo marks, not empty by accident;
 
 ## Archive elements
 
@@ -60,6 +64,8 @@ Verify:
   chosen from the current field rather than fixed coordinates;
 - journaling cue and swatches appear to have been placed last in response to
   the motif's actual empty space and visual weight;
+- title, journaling cue, and swatches feel embedded in the same visual field
+  rather than separated into independent blocks;
 - the complete panel reads as one planned composition rather than a generated
   image with appended archive elements;
 - no auxiliary element overlaps, cuts through, or obscures the main watercolor
