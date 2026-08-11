@@ -57,12 +57,15 @@ scaling and a restrained crop that does not damage the subject.
    stillness and reflected amber spacing; stairs become diagonal descent and
    pale stone weight. Avoid repeatedly naming the object as something to draw.
 6. Design the complete companion panel as one integrated composition before
-   generating its raster: establish the light ground, a 35–50% motif region
-   with an ideal target around 42–48%, the quiet writing area, title space, and
-   swatch area together. Keep the
-   total visible load of motif, title, journaling cue, and swatches around 60–68%
-   of the companion panel so the composition has breathing room. Do not first
-   generate a full scene and then force archive elements into leftover gaps.
+   generating its raster. Treat the panel as one memory field with a primary
+   35–50% motif region, ideally around 42–48%, plus quiet zones that contain
+   faint source-derived atmosphere, paper texture, soft wash residue, or small
+   echo marks. Title, journaling cue, and swatches may occupy distinct
+   functional positions, but they must not read as isolated layout blocks.
+   Keep the total visible load of motif, title, journaling cue, swatches, and
+   subtle echo marks around 60–68% so the composition has breathing room
+   without feeling empty. Do not first generate a full scene and then force
+   archive elements into leftover gaps.
 7. Build a source-derived watercolor memory field that re-expresses the
    selected facts through abstraction, reduction, rhythm, mass, atmosphere,
    and color relationships. Aim for resemblance in spirit rather than shape:
@@ -81,8 +84,8 @@ scaling and a restrained crop that does not damage the subject.
    - dark structural color;
    - pale neutral or restrained accent.
    Place them only after the motif composition is known. Treat the swatches as
-   a small balancing accent that moves to the calmest available quiet space,
-   never as a fixed bottom-right module.
+   a small balancing accent embedded in the field's natural flow, not as a
+   disconnected color-card area or fixed bottom-right module.
 9. Reserve a clearly legible journaling area inside the quiet space. Position
    it by the global balance of the whole companion panel, not by a fixed corner
    or leftover space. Use only 2–4 widely spaced, low-contrast ruled lines,
@@ -91,7 +94,8 @@ scaling and a restrained crop that does not damage the subject.
    last according to the actual empty area: if the motif concentrates upper
    left, the note cue may sit lower left; if the motif pulls downward, the note
    cue may move upward or outward. Choose the position that makes the whole
-   panel feel balanced.
+   panel feel balanced. The journaling cue should feel like a quiet trace in
+   the same field, not a detached form block.
 10. Add one concise English title of 2–5 words. Use a restrained handwritten
    fountain-pen or ink-note style with strong legibility; avoid ornate script,
    novelty lettering, or clashing font pairings. Add either a short poetic
@@ -131,14 +135,20 @@ scaling and a restrained crop that does not damage the subject.
   cue, and swatches may change position, scale, spacing, or orientation from
   image to image.
 - Scale the internal composition optically: the motif may remain 35–50% of the
-  panel, but the combined presence of all designed elements should feel about
-  60–68% of the available space, leaving approximately 32–40% calm ground.
+  panel, but the combined presence of all designed elements and subtle
+  atmospheric echoes should feel about 60–68% of the available space, leaving
+  approximately 32–40% calm ground.
 - If the motif falls below about 40% and begins to feel like a small inserted
   illustration, enlarge or recompose it before adjusting title, journaling, or
   swatches.
 - Treat swatches and journaling lines as final balancing elements. They should
   be placed where the generated panel has the most natural quiet gap after the
   motif and title are established, not where a template expects them.
+- Avoid isolated block layout. Title, journaling cue, and swatches may occupy
+  distinct functional positions, but they should sit within the same visual
+  weather as the motif, with shared spacing, tone, surface texture, softened
+  color drift, or tiny source-derived echo marks lightly connecting the spaces
+  when an area feels too empty.
 - Keep every internal element inside naturally quiet space. Never place a
   title, line, or swatch over a key watercolor passage or use it to
   cut through the main motif.
@@ -158,6 +168,9 @@ scaling and a restrained crop that does not damage the subject.
 - Do not use the saturated dominant source color unchanged as a full
   companion-field background.
 - Keep one coherent surface treatment.
+- Use soft residue to keep large calm areas alive: paper grain, pale wash
+  transitions, ghosted source-derived rhythm, or sparse hand-painted flecks are
+  allowed when they remain secondary and do not become another subject.
 - Do not use gradients, dissolves, torn seams, page turns, shadows, tape,
   mockups, or decorative separators.
 - Do not over-specify literal object names in the generation prompt for the
