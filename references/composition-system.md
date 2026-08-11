@@ -36,8 +36,20 @@ Keep the main panel join straight, clean, and edge-to-edge.
 
 ## Quiet space
 
-Keep approximately 55–80% of the companion field visually quiet, adjusted to
-the information density of the source.
+Keep meaningful calm ground in the companion field. The motif should usually
+occupy 35–50% of the panel, ideally about 42–48%; the combined visible load of
+motif, title, journaling cue, swatches, and subtle atmospheric echoes should
+feel about 60–68%, leaving roughly 32–40% as quiet breathing room.
 
 Place the journaling area inside this quiet space and away from the seam,
-title, swatches, seal, and densest motif marks.
+title, swatches, and densest motif marks.
+
+Do not reserve a fixed corner for archive elements. Place title, journaling
+lines, and color swatches after the motif's weight and empty zones are clear.
+They should complete the balance of the page rather than announce themselves
+as disconnected modules.
+
+Avoid isolated block layout. The motif, quiet writing cue, title, and swatches
+may occupy distinct functional positions, but they should share one continuous
+surface through pale source-derived wash residue, paper texture, tonal drift,
+or sparse echo marks.
