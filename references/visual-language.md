@@ -71,5 +71,17 @@ heavy display serif.
 The journaling area may remain empty: use 2–4 ruled lines, baseline marks, or a
 blank note block as the intended writing cue. No invented text is required.
 
+## Dynamic layout
+
+Do not assign title, journaling lines, swatches, or micro-mark to a permanent
+corner or side. First map the motif's occupied regions and quiet regions, then
+place each element in the quiet space with optical balance. Auxiliary elements
+must never overlap, cut through, or interrupt the key watercolor passage.
+
+If the field lacks usable quiet space, simplify the motif or rebuild it on a
+soft warm-white or cool-white ground that matches the original photograph's
+color temperature. A quiet white ground is preferable to crowding or forced
+placement.
+
 If the image supports a specific location or landmark with approximately 99%
 confidence, a small archival location note may be added. If not, omit it.
