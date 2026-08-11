@@ -18,8 +18,11 @@ Verify:
 - panels have matching dimensions;
 - seam is straight and clean;
 - visual center and negative space feel balanced;
-- subject anchors remain recognizable;
-- the motif reflects the current image's subject hierarchy rather than a
+- the combined internal visual load feels about 60–68%, leaving real breathing
+  room rather than occupying the whole panel;
+- source-memory anchors remain perceptible through rhythm, color, weight,
+  direction, atmosphere, or material feeling;
+- the motif reflects the current image's source hierarchy rather than a
   repeated example vocabulary.
 
 ## Companion field
@@ -27,8 +30,17 @@ Verify:
 Verify:
 - motif is derived from the source;
 - motif is a distilled watercolor re-expression of key source elements rather
-  than a detail-for-detail copy;
-- micro-mark is compact, borderless, and secondary;
+  than a detail-for-detail copy or filter-like redraw;
+- motif makes the source perceptible without reproducing the main subject as a
+  1:1 recognizable copy;
+- motif avoids exact outlines, silhouettes, facade geometry, stair geometry,
+  tree placement, vehicle/animal form, or landmark profile from the source;
+- motif appears prompted through abstract source cues rather than repeated
+  literal object names;
+- motif occupies approximately 35–50% of the companion panel area, ideally
+  about 42–48%;
+- motif does not feel like a small pasted vignette; if it appears below about
+  40%, enlarge or recompose it;
 - quiet space remains usable and is grounded by a light source-derived tonal
   field that harmonizes with the original photo when both panels are viewed
   together;
@@ -38,14 +50,18 @@ Verify:
 
 Verify:
 - exactly three clearly readable, irregular watercolor color swatches;
-- swatch group is approximately 8–15% of the companion panel width;
+- swatch group is approximately 6–11% of the companion panel width;
 - title spelling is correct;
 - title is below approximately 35% of the companion panel width and follows
   the handwritten-pen fallback order;
-- journaling area is legible as ruled lines or a blank note cue and contains no
-  invented writing;
-- title, journaling cue, swatches, and micro-mark occupy naturally quiet areas
+- journaling area is legible as 2–4 widely spaced ruled lines or a blank note
+  cue, contains no invented writing, and has visible breathing room;
+- title, journaling cue, and swatches occupy naturally quiet areas
   chosen from the current field rather than fixed coordinates;
+- journaling cue and swatches appear to have been placed last in response to
+  the motif's actual empty space and visual weight;
+- the complete panel reads as one planned composition rather than a generated
+  image with appended archive elements;
 - no auxiliary element overlaps, cuts through, or obscures the main watercolor
   motif;
 - if the field lacked quiet space, a soft harmonized white ground was used
@@ -57,8 +73,8 @@ Verify:
 
 ## Final subtraction check
 
-If any title, swatch, journaling cue, or micro-mark is noticed before the main
-watercolor motif, reduce its size, contrast, or saturation.
+If any title, swatch, or journaling cue is noticed before the main watercolor
+motif, reduce its size, contrast, or saturation.
 
 ## Final test
 
