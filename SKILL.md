@@ -69,7 +69,10 @@ scaling and a restrained crop that does not damage the subject.
    99% confident identification of a specific place or landmark. Otherwise omit
    it rather than guessing.
 12. Review the finished raster at full size and as a thumbnail.
-13. Regenerate only when a defect materially affects source fidelity, layout,
+13. Re-map the companion field's occupied and quiet areas before placing any
+    title, journaling cue, swatches, or micro-mark. Use the naturally available
+    quiet zone; never assume a fixed side, corner, or coordinate.
+14. Regenerate only when a defect materially affects source fidelity, layout,
     balance, typography, or invented content.
 
 ## Integration rules
@@ -89,6 +92,17 @@ scaling and a restrained crop that does not damage the subject.
 - Judge the complete diptych before finalizing any single panel. The light
   ground of the companion field must share the source photograph's overall
   color temperature and emotional atmosphere.
+- Allocate internal elements dynamically according to the companion field's
+  actual motif position, scale, density, and visual weight. Title, journaling
+  cue, swatches, and micro-mark may change position, scale, spacing, or
+  orientation from image to image.
+- Keep every internal element inside naturally quiet space. Never place a
+  title, line, swatch, or micro-mark over a key watercolor passage or use it to
+  cut through the main motif.
+- If the generated field does not leave a usable quiet zone, first simplify or
+  recompose the field. As a fallback, use a soft warm white or cool white
+  ground harmonized with the original photograph; do not force the elements
+  into an occupied area.
 - Keep the borderless micro-mark secondary to the main motif.
 - Keep the three watercolor swatches grouped and comfortably readable; they
   may have irregular edges and opacity but must remain clearly separate.
@@ -123,6 +137,10 @@ Never:
 - use any example motif element merely because it appears in the reference
   vocabulary; every motif element must be justified by the current source
   image's subject hierarchy.
+- use fixed coordinates or a fixed corner for title, journaling cue, swatches,
+  or micro-mark across different images.
+- cover, interrupt, or visually cut through the main watercolor motif with
+  any auxiliary element.
 
 ## References
 
@@ -143,3 +161,7 @@ title/journaling cue > color swatches > borderless micro-mark.
 
 Final subtraction test: if any title, swatch, journaling cue, or micro-mark is
 noticed before the main motif, reduce its size, contrast, or saturation.
+
+Layout principle: the outer two-panel composition is fixed, but all internal
+archive elements are dynamically placed to follow the current companion
+field's natural quiet space and visual balance.
