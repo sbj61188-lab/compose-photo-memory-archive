@@ -1,75 +1,70 @@
-# Visual Language
+# Quality Check
 
-## Direction
+Inspect every finished result at full size and as a thumbnail.
 
-Aim for:
-- archival;
-- editorial;
-- restrained;
-- minimal;
-- thoughtful;
-- coherent surface treatment.
+## Source fidelity
 
-## Memory motif
+Verify:
+- people and faces are unchanged;
+- object and person counts are preserved;
+- architecture and important text are preserved;
+- lighting and color memory remain faithful;
+- no invented scenery or symbols appear.
 
-Do not begin with a fixed vocabulary of lines, waves, eaves, bridges, or other
-recurring examples. First identify the current photograph's subject hierarchy:
+## Composition
 
-1. the defining subject spirit or memory anchor;
-2. the structure that makes it recognizable;
-3. atmosphere and material character;
-4. secondary accent color or detail.
+Verify:
+- fixed panel order is respected;
+- panels have matching dimensions;
+- seam is straight and clean;
+- visual center and negative space feel balanced;
+- subject anchors remain recognizable;
+- the motif reflects the current image's subject hierarchy rather than a
+  repeated example vocabulary.
 
-Select 3–6 source-specific facts from those levels. Prefer a distilled
-watercolor re-expression over literal tracing. Key elements may remain
-recognizable when that carries the photograph's emotional and spatial
-character, but the companion field should not duplicate every detail.
+## Companion field
 
-## Seal
+Verify:
+- motif is derived from the source;
+- motif is a distilled watercolor re-expression of key source elements rather
+  than a detail-for-detail copy;
+- micro-mark is compact, borderless, and secondary;
+- quiet space remains usable and is grounded by a light source-derived tonal
+  field that harmonizes with the original photo when both panels are viewed
+  together;
+- the companion ground shares the original photo's overall color temperature;
 
-Create one small borderless visual signature from the same source facts as the
-motif. It may resemble a light glyph, line gesture, or pictorial mark, but it
-must feel embedded in the field rather than enclosed in a badge or frame.
+## Archive elements
 
-Keep it precise and secondary.
+Verify:
+- exactly three clearly readable, irregular watercolor color swatches;
+- swatch group is approximately 8–15% of the companion panel width;
+- title spelling is correct;
+- title is below approximately 35% of the companion panel width and follows
+  the handwritten-pen fallback order;
+- journaling area is legible as ruled lines or a blank note cue and contains no
+  invented writing;
+- title, journaling cue, swatches, and micro-mark occupy naturally quiet areas
+  chosen from the current field rather than fixed coordinates;
+- no auxiliary element overlaps, cuts through, or obscures the main watercolor
+  motif;
+- if the field lacked quiet space, a soft harmonized white ground was used
+  instead of crowding the layout;
+- typography uses a legible handwritten pen style and does not compete with
+  the image;
+- any location note is present only when identification confidence is about
+  99% or higher.
 
-## Color
+## Final subtraction check
 
-Use source-derived colors with a clear hierarchy:
-1. dominant chromatic color;
-2. dark structural color;
-3. pale neutral or restrained accent.
+If any title, swatch, journaling cue, or micro-mark is noticed before the main
+watercolor motif, reduce its size, contrast, or saturation.
 
-The companion field may use related tonal steps for depth, but avoid unrelated
-hues and muddy high-saturation accumulation. Use a light source-derived tonal
-family as the breathing-room ground, then check it against the original photo
-as a complete diptych. The two panels should share one atmosphere and should
-not feel color-separated. Do not fill the field with an unchanged, saturated
-source color.
+## Final test
 
-## Swatches
+Ask:
 
-Use exactly three visibly readable swatches. They should look like irregular
-watercolor daubs or hand-brushed blocks with restrained opacity and soft,
-natural edge variation. Keep them grouped and secondary, never as tiny UI
-rectangles or decorative confetti. The group should occupy roughly 8–15% of
-the companion panel width and remain legible at thumbnail size.
+Does this feel like a preserved visual-memory artifact rather than a decorated
+photograph?
 
-## Typography
-
-Use one concise English title of 2–5 words. Prefer a legible handwritten
-fountain-pen or ink-note style; keep letterforms calm and editorial rather than
-ornate or novelty-script. Add at most one supporting subtitle or archive
-caption when it improves meaning and balance.
-
-Avoid oversized headlines and decorative typography. Keep the title below
-roughly 35% of the companion panel width. Prefer the following fallback order:
-legible fountain-pen handwriting, restrained humanist handwriting, then a
-narrow editorial face. Never use ornate script, wedding-style lettering, or a
-heavy display serif.
-
-The journaling area may remain empty: use 2–4 ruled lines, baseline marks, or a
-blank note block as the intended writing cue. No invented text is required.
-
-If the image supports a specific location or landmark with approximately 99%
-confidence, a small archival location note may be added. If not, omit it.
+If not, reduce decoration before changing the source structure.
