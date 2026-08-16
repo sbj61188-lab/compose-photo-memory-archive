@@ -53,3 +53,12 @@ Avoid isolated block layout. The motif, quiet writing cue, title, and swatches
 may occupy distinct functional positions, but they should share one continuous
 surface through pale source-derived wash residue, paper texture, tonal drift,
 or sparse echo marks.
+
+The companion ground should change with the photograph's atmosphere rather
+than defaulting to one beige paper. Choose a restrained light tint that shares
+the source's emotional temperature, then keep enough paper texture and quiet
+wash residue for the empty space to feel intentional.
+
+Swatches are selected by source role but arranged by visual order. Place the
+three swatches as a calm tonal sequence, usually light-to-dark or
+dark-to-light, and avoid abrupt light–dark–light or muted–bright–muted jumps.
