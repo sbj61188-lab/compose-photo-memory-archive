@@ -28,6 +28,14 @@ Preserve people, faces, bodies, hands, clothing, architecture, signs, numbers,
 objects, relationships, lighting, and color memory. Permit only proportional
 scaling and a restrained crop that does not damage the subject.
 
+For the companion field, use the principle “resemblance in spirit, not
+identical in shape.” The defining subject must not disappear, but it also must
+not become a detailed watercolor duplicate. Preserve the subject as a memory
+anchor through reduction, partial silhouettes, translucent washes, broken
+contours, displacement, rhythm, mass, color memory, and atmosphere. The result
+should feel globally like the source photograph while avoiding full literal
+shape-copying.
+
 ## Workflow
 
 1. Inspect each source photograph independently.
@@ -35,8 +43,10 @@ scaling and a restrained crop that does not damage the subject.
    person counts, dominant axes, visual weight, movement direction, negative
    space, tonal hierarchy, and source palette.
 3. Choose 2–4 source-memory anchors that should remain perceptible through
-   color, rhythm, weight, direction, atmosphere, or material feeling. They do
-   not need to remain visually legible as the original objects.
+   color, rhythm, weight, direction, atmosphere, or material feeling. The
+   defining anchor should remain present in spirit, but may be reduced,
+   fragmented, semi-transparent, or partially displaced so it does not become a
+   literal redraw.
 4. Build the fixed two-panel composition:
    - landscape: original photo on top, companion field below;
    - portrait: original photo on the left, companion field on the right;
@@ -55,7 +65,10 @@ scaling and a restrained crop that does not damage the subject.
    abstract source cues. For example, a carousel becomes circular rhythm,
    sunlit childhood color, and festive density; a forest becomes vertical
    stillness and reflected amber spacing; stairs become diagonal descent and
-   pale stone weight. Avoid repeatedly naming the object as something to draw.
+   pale stone weight. Name literal subjects only when needed to preserve the
+   memory anchor, then immediately specify a reduced memory treatment such as
+   partial silhouette, broken contour, translucent wash, displaced echo, or
+   symbolic trace. Avoid repeatedly naming the object as something to draw.
 6. Design the complete companion panel as one integrated composition before
    generating its raster. Treat the panel as one memory field with a primary
    35–50% motif region, ideally around 42–48%, plus quiet zones that contain
@@ -71,21 +84,29 @@ scaling and a restrained crop that does not damage the subject.
    and color relationships. Aim for resemblance in spirit rather than shape:
    the result should feel like a distilled memory, not a watercolor filter or
    a recognizable redraw of the original scene. The source should be
-   perceptible, but the main subject must not be reproduced 1:1 as a copied
-   object, silhouette, building, tree group, stair, vehicle, animal, or
-   landmark. Keep the motif region roughly 35–50% of the companion panel area,
-   ideally around 42–48%. Avoid going below 40% unless the source image is
-   extremely minimal; too small makes the motif read as a pasted illustration
-   rather than the memory field.
+   perceptible: do not erase the defining subject or reduce it to generic
+   atmosphere. At the same time, the main subject must not be reproduced 1:1
+   as a copied object, complete silhouette, building, tree group, stair,
+   vehicle, animal, or landmark. Express it as a memory trace: incomplete,
+   softened, translucent, broken, offset, symbol-like, or rhythmically
+   reassembled. Keep the motif region roughly 35–50% of the companion panel
+   area, ideally around 42–48%. Avoid going below 40% unless the source image
+   is extremely minimal; too small makes the motif read as a pasted
+   illustration rather than the memory field.
 8. Add exactly three clearly visible source-derived color swatches. Render them
    as irregular, hand-applied watercolor daubs or brushed blocks rather than
    tiny geometric UI chips:
-   - representative dominant chromatic color;
+   - representative emotional or memory color;
    - dark structural color;
-   - pale neutral or restrained accent.
-   Place them only after the motif composition is known. Treat the swatches as
-   a small balancing accent embedded in the field's natural flow, not as a
-   disconnected color-card area or fixed bottom-right module.
+   - pale neutral, air, light, or restrained accent.
+   Select the swatches by source role, but arrange the visible swatch group by
+   visual harmony rather than role order. Prefer a smooth value sequence such
+   as light-to-dark or dark-to-light. Avoid jumpy light–dark–light,
+   dark–light–dark, or muted–bright–muted arrangements unless the whole panel
+   specifically supports that rhythm. Place them only after the motif
+   composition is known. Treat the swatches as a small balancing accent
+   sampled from and embedded in the field's natural flow, not as a disconnected
+   color-card area or fixed bottom-right module.
 9. Reserve a clearly legible journaling area inside the quiet space. Position
    it by the global balance of the whole companion panel, not by a fixed corner
    or leftover space. Use only 2–4 widely spaced, low-contrast ruled lines,
@@ -116,12 +137,15 @@ scaling and a restrained crop that does not damage the subject.
 - Keep the main join straight, clean, and edge-to-edge.
 - Use optical balance rather than mechanically centering every element.
 - Build the companion field on a light, restrained ground derived from the
-  source's dominant tonal family and harmonized against the photograph as a
-  whole. Judge the ground while viewing both panels together: it must feel
-  like the same visual atmosphere, not a disconnected paper color. Preserve
-  approximately 32–40% calm ground after motif, title, journaling cue, and
-  swatches are placed; the ground should read as intentional breathing room,
-  not unfinished blank canvas.
+  source's atmosphere and harmonized against the photograph as a whole. Do not
+  default every image to the same beige paper. Choose a quiet paper tint from
+  the source's emotional temperature, such as cool mist white, warm sunlit
+  ivory, gray-green haze, pale blue wash, snow white, or tea-warm paper. Judge
+  the ground while viewing both panels together: it must feel like the same
+  visual atmosphere, not a disconnected paper color. Preserve approximately
+  32–40% calm ground after motif, title, journaling cue, and swatches are
+  placed; the ground should read as intentional breathing room, not unfinished
+  blank canvas.
 - Let the major source-derived elements (mass, axis, rhythm, atmosphere) form
   a motif occupying roughly 35–50% of the companion panel, with 42–48% as the
   preferred zone. Adapt their treatment to the photograph's character through
@@ -144,6 +168,11 @@ scaling and a restrained crop that does not damage the subject.
 - Treat swatches and journaling lines as final balancing elements. They should
   be placed where the generated panel has the most natural quiet gap after the
   motif and title are established, not where a template expects them.
+- Arrange the three swatches by visual sequence after selection. The group
+  should read as a calm tonal progression, not a jarring alternation. If one
+  swatch is much brighter or more saturated than the others, place it at one
+  end of the sequence or reduce its size/opacity so it does not sit abruptly
+  between quieter colors.
 - Avoid isolated block layout. Title, journaling cue, and swatches may occupy
   distinct functional positions, but they should sit within the same visual
   weather as the motif, with shared spacing, tone, surface texture, softened
@@ -177,10 +206,12 @@ scaling and a restrained crop that does not damage the subject.
   companion field. Use abstract cues such as rhythm, mass, direction, density,
   atmosphere, color temperature, and light pressure.
 - Do not turn the companion field into a second fully illustrated copy of the
-  photograph. Do not preserve the main subject's exact outline, count, facade,
-  stair geometry, tree placement, vehicle form, or landmark silhouette in the
-  companion field. Re-express only the source's spirit, rhythm, color memory,
-  direction, density, and atmosphere.
+  photograph, and do not remove the defining subject so completely that the
+  source loses its soul. Do not preserve the main subject's exact outline,
+  count, facade, stair geometry, tree placement, vehicle form, or landmark
+  silhouette in the companion field. Re-express the source's spirit, rhythm,
+  color memory, direction, density, and atmosphere through partial,
+  memory-like traces.
 
 ## Guardrails
 
@@ -199,6 +230,8 @@ Never:
   image's source hierarchy.
 - reproduce the main subject 1:1 or make the companion motif read as a direct
   watercolor copy of the original photograph.
+- erase the defining subject so fully that the companion field becomes generic
+  atmosphere unrelated to the source.
 - repeatedly name the source's literal subject in the companion-field prompt
   in a way that tells the model to redraw it.
 - use fixed coordinates or a fixed corner for title, journaling cue, swatches,
