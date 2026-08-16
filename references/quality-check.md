@@ -35,6 +35,10 @@ Verify:
   than a detail-for-detail copy or filter-like redraw;
 - motif makes the source perceptible without reproducing the main subject as a
   1:1 recognizable copy;
+- the defining subject remains present as a memory anchor and has not been
+  erased into generic atmosphere;
+- the defining subject is reduced, partial, translucent, broken, displaced, or
+  rhythmically reassembled rather than fully redrawn;
 - motif avoids exact outlines, silhouettes, facade geometry, stair geometry,
   tree placement, vehicle/animal form, or landmark profile from the source;
 - motif appears prompted through abstract source cues rather than repeated
@@ -47,6 +51,9 @@ Verify:
   field that harmonizes with the original photo when both panels are viewed
   together;
 - the companion ground shares the original photo's overall color temperature;
+- the companion ground does not default to the same beige paper when the
+  source atmosphere calls for cool mist, warm ivory, gray-green haze, pale
+  blue wash, snow white, or another restrained paper tint;
 - large quiet areas feel intentionally alive through subtle paper texture,
   diluted wash residue, tonal drift, or sparse echo marks, not empty by accident;
 
@@ -54,6 +61,10 @@ Verify:
 
 Verify:
 - exactly three clearly readable, irregular watercolor color swatches;
+- swatches are selected from source roles but arranged by visual harmony,
+  usually light-to-dark or dark-to-light;
+- swatches avoid jarring light–dark–light, dark–light–dark, or
+  muted–bright–muted order unless clearly supported by the composition;
 - swatch group is approximately 6–11% of the companion panel width;
 - title spelling is correct;
 - title is below approximately 35% of the companion panel width and follows
