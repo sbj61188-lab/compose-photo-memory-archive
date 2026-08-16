@@ -31,6 +31,13 @@ composition should feel optically scaled to about 60–68% visible load with the
 rest preserved as calm ground. Do not shrink the motif into a small vignette;
 below about 40% it usually loses authority.
 
+The defining subject must remain present as a memory anchor, but not as a
+complete copy. Use partial silhouettes, translucent washes, broken contours,
+displaced echoes, reduced mass, symbolic traces, and source-derived rhythm.
+The field should feel globally like the photograph while avoiding exact shape
+copying. Do not solve abstraction by deleting the subject into generic
+atmosphere.
+
 Avoid isolated block layout. The title, journaling cue, and swatches may
 occupy distinct functional positions, but they should remain visually
 integrated with the memory field through shared spacing, tone, surface
@@ -53,16 +60,19 @@ repeating the object's name as the thing to draw.
 ## Color
 
 Use source-derived colors with a clear hierarchy:
-1. dominant chromatic color;
+1. emotional or memory color;
 2. dark structural color;
-3. pale neutral or restrained accent.
+3. pale neutral, air, light, or restrained accent.
 
 The companion field may use related tonal steps for depth, but avoid unrelated
-hues and muddy high-saturation accumulation. Use a light source-derived tonal
-family as the breathing-room ground, then check it against the original photo
-as a complete diptych. The two panels should share one atmosphere and should
-not feel color-separated. Do not fill the field with an unchanged, saturated
-source color.
+hues and muddy high-saturation accumulation. Use a light source-derived
+atmospheric tint as the breathing-room ground, then check it against the
+original photo as a complete diptych. Do not default every image to the same
+beige paper; choose a restrained ground from the source's emotional
+temperature, such as cool mist white, warm sunlit ivory, gray-green haze, pale
+blue wash, snow white, or tea-warm paper. The two panels should share one
+atmosphere and should not feel color-separated. Do not fill the field with an
+unchanged, saturated source color.
 
 ## Swatches
 
@@ -73,6 +83,13 @@ rectangles or decorative confetti. The group should occupy roughly 6–11% of
 the companion panel width and remain legible at thumbnail size without drawing
 attention before the motif. Swatches should feel embedded in the page's visual
 flow, not like a separate palette card.
+
+Select swatches by source role, but arrange the visible group by visual
+harmony, not role order. Prefer a calm value sequence such as light-to-dark or
+dark-to-light. Avoid light–dark–light, dark–light–dark, or
+muted–bright–muted arrangements that make the group feel jumpy. If one swatch
+is much brighter or more saturated than the others, place it at one end of the
+sequence or reduce its size/opacity.
 
 ## Typography
 
