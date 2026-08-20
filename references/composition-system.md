@@ -2,63 +2,48 @@
 
 ## Panel relationship
 
-The original photograph is the factual anchor. The companion field is the
+The original photograph is the factual anchor. The companion panel is the
 interpretive space.
 
-### Landscape
+### Landscape and square
 
-Original photograph on top; companion field below.
+Place the original photograph on top and the companion panel below.
 
-The final canvas is `W × 2H` when the source is `W × H`.
+For a source of `W × H`, the final canvas is `W × 2H`.
 
 ### Portrait
 
-Original photograph on the left; companion field on the right.
+Place the original photograph on the left and the companion panel on the right.
 
-The final canvas is `2W × H`.
+For a source of `W × H`, the final canvas is `2W × H`.
 
-### Square
+## Unified companion panel
 
-Default to original photograph on top and companion field below.
+Generate the watercolor motif, title, swatches, and journaling lines as one
+complete companion panel.
 
-## Balance
+Do not use a compositor to add, move, or restyle those archive elements after
+generation. The compositor may only resize the accepted companion
+proportionally and stitch it edge-to-edge with the untouched source photograph.
 
-Use optical balance rather than strict geometric centering.
+## Balance and quiet space
 
-Allow:
-- offset placement;
-- varied motif scale;
-- corner placement;
-- asymmetrical rhythm;
-- breathing room around the lightest area.
+Keep the primary motif at roughly 42–48% of the companion panel. The complete
+visible load of motif, title, journaling lines, swatches, and subtle atmospheric
+marks should feel about 60–68%, leaving 32–40% calm breathing room.
 
-Keep the main panel join straight, clean, and edge-to-edge.
+Place the title, lines, and swatches inside natural quiet space. They must not
+cross the motif, sit on a fixed template corner, or read as detached interface
+widgets.
 
-## Quiet space
+Choose a light paper tint from the source atmosphere. Use pale wash residue,
+paper texture, tonal drift, or sparse source-derived echoes to keep quiet areas
+intentional without introducing a second subject.
 
-Keep meaningful calm ground in the companion field. The motif should usually
-occupy 35–50% of the panel, ideally about 42–48%; the combined visible load of
-motif, title, journaling cue, swatches, and subtle atmospheric echoes should
-feel about 60–68%, leaving roughly 32–40% as quiet breathing room.
+## Archive elements
 
-Place the journaling area inside this quiet space and away from the seam,
-title, swatches, and densest motif marks.
-
-Do not reserve a fixed corner for archive elements. Place title, journaling
-lines, and color swatches after the motif's weight and empty zones are clear.
-They should complete the balance of the page rather than announce themselves
-as disconnected modules.
-
-Avoid isolated block layout. The motif, quiet writing cue, title, and swatches
-may occupy distinct functional positions, but they should share one continuous
-surface through pale source-derived wash residue, paper texture, tonal drift,
-or sparse echo marks.
-
-The companion ground should change with the photograph's atmosphere rather
-than defaulting to one beige paper. Choose a restrained light tint that shares
-the source's emotional temperature, then keep enough paper texture and quiet
-wash residue for the empty space to feel intentional.
-
-Swatches are selected by source role but arranged by visual order. Place the
-three swatches as a calm tonal sequence, usually light-to-dark or
-dark-to-light, and avoid abrupt light–dark–light or muted–bright–muted jumps.
+- Use exactly three separate irregular watercolor swatches.
+- Group swatches together and arrange them in a calm value progression.
+- Use one small handwritten English title of 2–5 words.
+- Use 2–4 widely spaced empty low-contrast journaling lines.
+- Do not use subtitles, captions, dates, seals, location notes, or extra text.
