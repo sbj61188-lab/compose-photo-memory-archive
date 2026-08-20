@@ -1,57 +1,51 @@
 # Compose Photo Memory Archive
 
-An open-source AI skill for transforming photographs into editorial
-visual-memory archive artworks.
+An open-source Codex skill for turning a photograph into a restrained editorial
+photo-memory archive diptych.
 
-## What it does
+## What it creates
 
-Compose Photo Memory Archive turns an ordinary photograph into a restrained
-editorial archive composition.
+Each result contains:
 
-The original photograph remains the factual anchor.
+- one untouched original photograph;
+- one source-derived watercolor companion panel;
+- one concise handwritten English title;
+- exactly three painted source-derived color swatches;
+- 2–4 empty journaling lines.
 
-A companion visual field is created from the photograph's own:
-- geometry;
-- color relationships;
-- spatial rhythm;
-- negative space;
-- atmosphere;
-- visual weight.
+The companion panel is generated as one complete image. The final step only
+joins it edge-to-edge with the untouched photograph.
 
-The result is designed to feel like a preserved visual-memory artifact rather
-than a decorated photograph.
+## Visual principle
 
-## Core principles
+The work follows “神似不完全形似”:
 
-### Preserve the photograph
+- preserve the source’s atmosphere, light, rhythm, color, and subject memory;
+- keep one or two recognizable structural relationships;
+- avoid a detail-for-detail watercolor copy;
+- avoid reducing the source into unrelated generic atmosphere.
 
-The original photograph should remain faithful to the source.
+The result should feel like a preserved visual-memory artifact rather than a
+decorated photograph.
 
-The skill does not intentionally:
-- redraw people;
-- alter faces;
-- invent objects;
-- change architecture;
-- change important text;
-- duplicate or remove subjects;
-- invent scenery.
+## Non-negotiable rules
 
-### Build a companion field
+- Never redraw, retouch, recolor, or regenerate the source photograph.
+- Generate only the companion panel; never ask the image model for the full
+  diptych.
+- Generate the motif, title, swatches, and journaling lines together in that
+  companion panel.
+- Do not add archive elements later with a compositor or layout overlay.
+- Do not add captions, subtitles, dates, location labels, seals, logos, frames,
+  tape, shadows, or watermarks.
 
-The companion field is abstract and interpretive.
+## Panel layout
 
-It should be derived from the source photograph rather than using a generic
-template.
-
-### Keep the composition restrained
-
-The final artwork uses:
-- one original photograph;
-- one companion field;
-- one compact archival seal;
-- three small source-derived color swatches;
-- one concise English title;
-- optional archival captioning.
+| Source orientation | Final layout |
+| --- | --- |
+| Landscape | Original on top, companion below |
+| Portrait | Original on left, companion on right |
+| Square | Original on top, companion below |
 
 ## Repository structure
 
@@ -60,8 +54,14 @@ compose-photo-memory-archive/
 ├── SKILL.md
 ├── README.md
 ├── LICENSE
-├── CHANGELOG.md
+├── agents/
+│   └── openai.yaml
 └── references/
     ├── composition-system.md
     ├── visual-language.md
     └── quality-check.md
+```
+
+## License
+
+Released under the [MIT License](LICENSE).
